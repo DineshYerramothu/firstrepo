@@ -1,8 +1,10 @@
-line1
+line1(alternative)
 
 line 2
 
 line 3(main)
+
+line 3(alternative)
 
 line 4
 
